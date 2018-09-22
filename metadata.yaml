@@ -1,0 +1,24 @@
+_repo: War-and-the-Arme-Blanche_55425
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Childers, Erskine
+    alias: Childers, Robert Erskine
+    birthdate: 1870
+    deathdate: 1922
+    gutenberg_agent_id: '875'
+    url: http://www.gutenberg.org/2009/agents/875
+    wikipedia: http://en.wikipedia.org/wiki/Robert_Erskine_Childers
+description: ''
+gutenberg_issued: '2017-08-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '55425'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: War and the Arme Blanche
+url: http://www.gutenberg.org/ebooks/55425
